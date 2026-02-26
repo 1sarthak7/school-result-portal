@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Student Result Access Portal - Government High School. Access academic results for the year 2025-2026.">
+    <title>Student Result Portal - Government High School</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Main Container -->
+    <main class="container">
+
+        <!-- School Header -->
+        <header class="school-header">
+            <div class="logo-placeholder">
+                <span class="logo-text">LOGO</span>
+            </div>
+            <h1 class="school-name">Government High School</h1>
+            <p class="academic-year">Academic Year 2025 &ndash; 2026</p>
+            <hr class="divider">
+        </header>
+
+        <!-- Result Access Form -->
+        <section class="form-section">
+            <h2 class="form-title">Student Result Access Portal</h2>
+
+            <form id="resultForm" novalidate>
+
+                <!-- Class Selection -->
+                <div class="form-group">
+                    <label for="studentClass">Class <span class="required">*</span></label>
+                    <select id="studentClass" name="studentClass" required>
+                        <option value="" disabled selected>-- Select Class --</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                    <span class="error-message" id="classError"></span>
+                </div>
+
+                <!-- Division Selection -->
+                <div class="form-group">
+                    <label for="division">Division <span class="required">*</span></label>
+                    <select id="division" name="division" required>
+                        <option value="" disabled selected>-- Select Division --</option>
+                        <option value="A">A</option>
+                        <option value="B">B</option>
+                        <option value="C">C</option>
+                    </select>
+                    <span class="error-message" id="divisionError"></span>
+                </div>
+
+                <!-- Roll Number -->
+                <div class="form-group">
+                    <label for="rollNumber">Roll Number <span class="required">*</span></label>
+                    <input
+                        type="number"
+                        id="rollNumber"
+                        name="rollNumber"
+                        placeholder="Enter Roll Number"
+                        min="1"
+                        max="100"
+                        required
+                    >
+                    <span class="error-message" id="rollError"></span>
+                </div>
+
+                <!-- Date of Birth -->
+                <div class="form-group">
+                    <label for="dob">Date of Birth <span class="required">*</span></label>
+                    <input
+                        type="date"
+                        id="dob"
+                        name="dob"
+                        required
+                    >
+                    <span class="error-message" id="dobError"></span>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="form-group">
+                    <button type="submit" id="submitBtn" class="btn-submit">
+                        View Result
+                    </button>
+                </div>
+
+                <!-- Loading Indicator -->
+                <div id="loadingIndicator" class="loading-indicator" hidden>
+                    <div class="spinner"></div>
+                    <span>Fetching result, please wait...</span>
+                </div>
+
+            </form>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <p>&copy; 2026 Government High School. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
