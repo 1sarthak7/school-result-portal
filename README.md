@@ -219,18 +219,6 @@ flowchart TD
 
 ## <img src="https://media.giphy.com/media/3ohzdWp41gEjBhoVnq/giphy.gif" width="28"> &nbsp;Color Palette
 
-<div align="center">
-
-| Color | Hex | Usage |
-|:---:|:---:|:---|
-| ![#1a3a5c](https://via.placeholder.com/20/1a3a5c/1a3a5c.png) | `#1a3a5c` | Primary headings & branding |
-| ![#3a6ea5](https://via.placeholder.com/20/3a6ea5/3a6ea5.png) | `#3a6ea5` | Buttons, links & accents |
-| ![#2d5a8a](https://via.placeholder.com/20/2d5a8a/2d5a8a.png) | `#2d5a8a` | Button hover state |
-| ![#f5f7fa](https://via.placeholder.com/20/f5f7fa/f5f7fa.png) | `#f5f7fa` | Background color |
-| ![#b91c1c](https://via.placeholder.com/20/b91c1c/b91c1c.png) | `#b91c1c` | Error states & required markers |
-| ![#4b5563](https://via.placeholder.com/20/4b5563/4b5563.png) | `#4b5563` | Secondary text |
-
-</div>
 
 <!-- Wave Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
