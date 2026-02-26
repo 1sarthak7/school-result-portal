@@ -248,15 +248,6 @@ Contributions are always welcome! Here's how:
 6. 📬 Open a Pull Request
 ```
 
-<!-- Wave Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📜 License
-
-<div align="center">
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
 </div>
 
 <!-- Wave Separator -->
@@ -266,9 +257,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1sarthak7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sarthakbhopale1703@gmail.com)
 
 </div>
 
@@ -282,7 +272,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <br/>
 
 <!-- Animated Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=1sarthak7&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -296,7 +286,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <br/><br/>
 
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&style=for-the-badge&color=3a6ea5" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=1sarthak7&label=PROFILE+VIEWS&style=for-the-badge&color=3a6ea5" alt="Profile Views"/>
 
 <br/><br/>
 
